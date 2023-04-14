@@ -1,4 +1,4 @@
-### <div align="center">I'm Yakov, a Junior Flutter developer 👨‍💻 working remotely</div>  
+### <div align="left">I'm Yakov, a Junior Flutter developer 👨‍💻 working remotely</div>  
   
 
 - 💻 I'am constantly learning new things  
@@ -12,7 +12,6 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>  
@@ -22,7 +21,6 @@
 </div>  
 
 <br/>  
-
 
 ## Connect with me  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yakov-matveev-407930253/" target="_blank">
