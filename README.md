@@ -36,5 +36,5 @@
 
 <br />
 
-## Statistics on Codewars  
-https://www.codewars.com/users/MatveevYasha/badges/small
+## Statistics on Codewars
+[![codewars](https://www.codewars.com/users/MatveevYasha/badges/large)](https://www.codewars.com/users/MatveevYasha)
