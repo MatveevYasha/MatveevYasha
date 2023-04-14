@@ -4,7 +4,7 @@
 - 💻 I'am constantly learning new things  
   
 
-- 📲 Already have internship experience (3 months)  
+- 📲 Already have internship experience (3 months) and more than a year of study
   
 
 - 💫 My stack is: BloC, Provider, Dio, auto_route, localization, tests, json_serializable, build_runner  
@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<div align="center">  
+<div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
@@ -36,5 +36,5 @@
 
 <br />
 
-
+## Statistics on Codewars  
 https://www.codewars.com/users/MatveevYasha/badges/small
