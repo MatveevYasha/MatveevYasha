@@ -34,7 +34,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+<a href="https://t.me/yasha_matveev" target="_blank">
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 <br />
 
 ## Statistics on Codewars
-[![codewars](https://www.codewars.com/users/MatveevYasha/badges/large)](https://www.codewars.com/users/MatveevYasha)
+[![codewars](https://www.codewars.com/users/MatveevYasha/badges/small)](https://www.codewars.com/users/MatveevYasha)
