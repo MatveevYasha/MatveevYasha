@@ -30,9 +30,11 @@
 </a>
 
 
-https://www.codewars.com/users/MatveevYasha/badges/small
 <a href="https://instagram.com/yasha_matveev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
 <br />
+
+
+https://www.codewars.com/users/MatveevYasha/badges/small
