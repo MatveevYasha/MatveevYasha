@@ -47,9 +47,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://t.me/yasha_matveev" target="_blank">
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yakov-matveev-407930253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -60,5 +57,5 @@
 
 <br />
 
-## Statistics on Codewars
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/MatveevYasha)
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
