@@ -4,7 +4,7 @@
 - 💻 I'am constantly learning new things  
   
 
-- 📲 -
+- 📲 I already have 0.5 years of commercial experience
   
 
 - 💫 My stack is: BloC, Provider, Dio, auto_route, localization, tests, json_serializable, build_runner  
