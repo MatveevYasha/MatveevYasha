@@ -4,7 +4,7 @@
 - 💻 I'am constantly learning new things  
   
 
-- 📲 Already have internship experience and more than a year of study
+- 📲 -
   
 
 - 💫 My stack is: BloC, Provider, Dio, auto_route, localization, tests, json_serializable, build_runner  
