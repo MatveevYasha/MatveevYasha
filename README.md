@@ -4,10 +4,10 @@
 - 💻 I'am constantly learning new things  
   
 
-- 📲 I already have 0.5 years of commercial experience
+- 📲 Love beautiful and comfortable apps
   
 
-- 💫 My stack is: BloC, Provider, Dio, auto_route, localization, tests, json_serializable, build_runner  
+- 💫 My stack is: provider, riverpod, bloc, dio, git, json_annotation, get_it, json_serializable, build_runner, easy_localization, intl, auto_route, cubit, redux, protobuf, tests, hive.  
   
 <br/>  
 
