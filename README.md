@@ -7,7 +7,7 @@
 - 📲 Love beautiful and comfortable apps
   
 
-- 💫 My stack is: provider, riverpod, bloc, dio, git, json_annotation, get_it, json_serializable, build_runner, freezed, easy_localization, intl, auto_route, cubit, redux, protobuf, tests, hive.  
+- 💫 My stack is: provider, riverpod, bloc, dio, git, json_annotation, get_it, json_serializable, build_runner, freezed, easy_localization, intl, auto_route, cubit, redux, protobuf, serverpod, tests, hive.  
   
 <br/>  
 
