@@ -1,4 +1,4 @@
-### <div align="left">I'm Yakov, a Junior Flutter developer 👨‍💻 working remotely</div>  
+### <div align="left">I'm Yakov, a Flutter developer 👨‍💻 working remotely</div>  
   
 
 - 💻 I'am constantly learning new things  
