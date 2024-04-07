@@ -7,10 +7,10 @@
 - 📲 Love beautiful and comfortable apps
   
 
-💫 Skills - Flutter, Dart 
-• Version control -  Git (Gitlab, GitHub) 
-• Databases - SQLite, Hive, Shared preferences, Drift, Serverpod 
-•  Flutter Libraries and Plugins - flutter_bloc, provider, riverpod, http, dio, go_router, drift, rxdart, equatable, freezed, json_serializable, build_runner, easy_localization, intl, shared_preferences, flutter_svg, vector_graphics, cached_network_image, permission_handler, webview_flutter. 
+💫 Skills - Flutter, Dart<br/>
+• Version control -  Git (Gitlab, GitHub)<br/>
+• Databases - SQLite, Hive, Shared preferences, Drift, Serverpod<br/>
+•  Flutter Libraries and Plugins - flutter_bloc, provider, riverpod, http, dio, go_router, drift, rxdart, equatable, freezed, json_serializable, build_runner, easy_localization, intl, shared_preferences, flutter_svg, vector_graphics, cached_network_image, permission_handler, webview_flutter.<br/>
 •  Other - Rest API, GRPC, JSON, Postman, Swagger, Firebase Services, SQL, Unit Test, Widget Test, Figma, Jira, Clickup, Slack, Discord.
   
 <br/>  
